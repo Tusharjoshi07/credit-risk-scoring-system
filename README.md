@@ -3,7 +3,7 @@
 An end-to-end machine learning system that predicts the probability of a customer defaulting on a loan — built to simulate real-world credit risk assessment used by banks like JPMC and HDFC.
 
 ## 🔗 Live Demo
-👉 [Click here to try the app]() ← we'll add this link after deployment
+👉 [Click here to try the app](https://credit-risk-scoring-system-prgrrftxraazqqtdofp9ft.streamlit.app/) ← we'll add this link after deployment
 
 ---
 
